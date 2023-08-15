@@ -81,7 +81,9 @@ Before you begin, make sure you have the necessary tools and components:
 Follow these steps to install and set up ShipmentXpress:
 
 1. Clone the repository:
+
    git clone https://github.com/Shubh2-0/ShipmentXpress.git
+   
    cd ShipmentXpress
 
 2. Configure database settings:
