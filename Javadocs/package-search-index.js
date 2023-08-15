@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.shipmentXpress.dao"},{"l":"com.shipmentXpress.exception"},{"l":"com.shipmentXpress.model"},{"l":"com.shipmentXpress.utils"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.shipmentXpress.test"}];updateSearchResults();
