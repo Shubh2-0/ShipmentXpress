@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.shipmentXpress.utils","l":"EM_Utils"},{"p":"com.shipmentXpress.model","l":"Shipment"},{"p":"com.shipmentXpress.dao","l":"ShipmentDao"},{"p":"com.shipmentXpress.dao","l":"ShipmentDaoImpl"},{"p":"com.shipmentXpress.exception","l":"ShipmentException"}];updateSearchResults();
