@@ -38,8 +38,8 @@ Explore the comprehensive documentation of the ShipmentXpress project by visitin
       Java
     </td>
     <td align="center" width="100">
-      <img src="images/maven.png" width="48" height="48" alt="Maven" /><br>
-      Maven
+      <img src="images/hibernate.png" width="48" height="48" alt="hibernate" /><br>
+      Hibernate
     </td>
     <td align="center" width="100">
       <img src="images/springb.png" width="48" height="48" alt="Spring Boot" /><br>
