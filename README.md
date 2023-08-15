@@ -16,7 +16,7 @@ ShipmentXpress is a powerful Java-based shipment management system designed to s
   - :computer: Installation
 - :hammer_and_wrench: Usage
 - :raised_hands: Contributing
-- :email: Contact Us
+- :email: Contact
 
 ## :rocket: Features
 
@@ -101,8 +101,6 @@ To use ShipmentXpress:
 
 2. To see a simple usage example of interacting with the ShipmentXpress functionalities, you can refer to the ShipmentXpressTest class. This class demonstrates how to create, retrieve, update, and delete shipments. You can modify the example according to your project's design and data.
 
-Remember that comprehensive testing is crucial for delivering a robust and dependable application.
-
 
 ## :raised_hands: Contributing
 
@@ -114,8 +112,12 @@ We welcome contributions from the community! Here's how you can contribute:
 4. Push to the branch: git push origin feature-name.
 5. Create a pull request explaining your changes.
 
-## :email: Contact Us
+## :email: Contact 
 
 Have questions or suggestions? Feel free to reach out to us via email at shubhambhati226@gmail.com.
+
+If you want to contact me, you can reach me through below handles.
+
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shubham-bhati-787319213/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
 
