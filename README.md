@@ -9,11 +9,11 @@ ShipmentXpress is a powerful Java-based shipment management system designed to s
 ## Table of Contents
 
 - :rocket: Features
+- :book: Javadoc
+- 🛠️ Tools Used (Tech Stack)
 - :gear: Getting Started
   - :wrench: Prerequisites
   - :computer: Installation
-- :book: Javadoc
-- 🛠️ Tools Used (Tech Stack)
 - :hammer_and_wrench: Usage
 - :raised_hands: Contributing
 - :email: Contact Us
