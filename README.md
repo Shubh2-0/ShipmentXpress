@@ -42,12 +42,8 @@ Explore the comprehensive documentation of the ShipmentXpress project by visitin
       Hibernate
     </td>
     <td align="center" width="100">
-      <img src="images/springb.png" width="48" height="48" alt="Spring Boot" /><br>
-      Spring Boot
-    </td>
-    <td align="center" width="100">
-      <img src="images/restful.png" width="48" height="48" alt="RESTful API" /><br>
-      RESTful API
+      <img src="images/mysql.png" width="48" height="48" alt="mysql" /><br>
+      MySQL
     </td>
   </tr>
   <tr>
@@ -56,7 +52,7 @@ Explore the comprehensive documentation of the ShipmentXpress project by visitin
       Lombok
     </td>
     <td align="center" width="100">
-      <img src="images/sts.png" width="48" height="48" alt="Eclipse" /><br>
+      <img src="images/spring.png" width="48" height="48" alt="Eclipse" /><br>
       STS
     </td>
     <td align="center" width="100">
