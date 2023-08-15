@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"com.shipmentXpress.test","c":"ShipmentXpressTest","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.shipmentXpress.test","c":"ShipmentXpressTest","l":"ShipmentXpressTest()","u":"%3Cinit%3E()"}];updateSearchResults();
