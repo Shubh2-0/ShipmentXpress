@@ -12,9 +12,10 @@ ShipmentXpress is a powerful Java-based shipment management system designed to s
 - :gear: Getting Started
   - :wrench: Prerequisites
   - :computer: Installation
+- :book: Javadoc
+- 🛠️ Tools Used (Tech Stack)
 - :hammer_and_wrench: Usage
 - :raised_hands: Contributing
-- :book: Javadoc
 - :email: Contact Us
 
 ## :rocket: Features
@@ -23,6 +24,51 @@ ShipmentXpress is a powerful Java-based shipment management system designed to s
 - Delete shipments by their unique IDs.
 - Update shipment details, including content, weight, and recipient address.
 - Retrieve shipments by ID, sender address, weight range, or creation date range.
+
+## :book: Javadoc
+
+Explore the comprehensive documentation of the ShipmentXpress project by visiting the Javadoc website: [Javadoc website](https://your-javadoc-website-url.com).
+
+## Tools Used 🛠️
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="images/java.png" width="48" height="48" alt="Java" /><br>
+      Java
+    </td>
+    <td align="center" width="100">
+      <img src="images/maven.png" width="48" height="48" alt="Maven" /><br>
+      Maven
+    </td>
+    <td align="center" width="100">
+      <img src="images/springb.png" width="48" height="48" alt="Spring Boot" /><br>
+      Spring Boot
+    </td>
+    <td align="center" width="100">
+      <img src="images/restful.png" width="48" height="48" alt="RESTful API" /><br>
+      RESTful API
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="images/lambok.png" width="48" height="48" alt="Lombok" /><br>
+      Lombok
+    </td>
+    <td align="center" width="100">
+      <img src="images/sts.png" width="48" height="48" alt="Eclipse" /><br>
+      STS
+    </td>
+    <td align="center" width="100">
+      <img src="images/github.png" width="48" height="48" alt="GitHub" /><br>
+      GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="images/postman.png" width="48" height="48" alt="Postman" /><br>
+      Postman
+    </td>
+  </tr>
+</table>
 
 ## :gear: Getting Started
 
@@ -68,10 +114,6 @@ We welcome contributions from the community! Here's how you can contribute:
 3. Make your changes and commit them: git commit -m "Add some feature".
 4. Push to the branch: git push origin feature-name.
 5. Create a pull request explaining your changes.
-
-## :book: Javadoc
-
-Explore the comprehensive documentation of the ShipmentXpress project by visiting the Javadoc website: [Javadoc website](https://your-javadoc-website-url.com).
 
 ## :email: Contact Us
 
