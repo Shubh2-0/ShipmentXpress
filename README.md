@@ -27,7 +27,7 @@ ShipmentXpress is a powerful Java-based shipment management system designed to s
 
 ## :book: Javadoc
 
-Explore the comprehensive documentation of the ShipmentXpress project by visiting the Javadoc website: [Javadoc website](https://your-javadoc-website-url.com).
+Explore the comprehensive documentation of the ShipmentXpress project by visiting the Javadoc website: [Javadoc website](https://shipmentxpress.netlify.app/).
 
 ## Tools Used 🛠️
 
