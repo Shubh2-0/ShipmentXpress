@@ -16,8 +16,6 @@ ShipmentXpress is a powerful Java-based shipment management system designed to s
 - :raised_hands: Contributing
 - :book: Javadoc
 - :email: Contact Us
-- :link: Connect with the Team
-- :scroll: License
 
 ## :rocket: Features
 
@@ -41,8 +39,8 @@ Before you begin, make sure you have the necessary tools and components:
 Follow these steps to install and set up ShipmentXpress:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/shipment-xpress.git
-   cd shipment-xpress
+   git clone https://github.com/Shubh2-0/ShipmentXpress.git
+   cd ShipmentXpress
 
 2. Configure database settings:
    Update the persistence.xml file located in the src/main/resources/META-INF directory with your MySQL database details.
@@ -55,7 +53,7 @@ Follow these steps to install and set up ShipmentXpress:
 To use ShipmentXpress:
 
 1. Run the application:
-   java -jar target/shipment-xpress.jar
+   java -jar target/ShipmentXpress.jar
 
 2. Access the application via your preferred web browser or API client.
 
@@ -77,15 +75,6 @@ Explore the comprehensive documentation of the ShipmentXpress project by visitin
 
 ## :email: Contact Us
 
-Have questions or suggestions? Feel free to reach out to us via email at your-email@example.com.
+Have questions or suggestions? Feel free to reach out to us via email at shubhambhati226@gmail.com.
 
-## :link: Connect with the Team
 
-We're excited to connect with you on LinkedIn and share our expertise:
-
-- Your Name - Project Lead - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-url/)
-- Another Team Member - Software Developer - LinkedIn: [Another LinkedIn Profile](https://www.linkedin.com/in/another-profile-url/)
-
-## :scroll: License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
