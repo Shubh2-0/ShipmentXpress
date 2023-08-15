@@ -45,6 +45,10 @@ Explore the comprehensive documentation of the ShipmentXpress project by visitin
       <img src="images/mysql.png" width="48" height="48" alt="mysql" /><br>
       MySQL
     </td>
+     <td align="center" width="100">
+      <img src="images/maven.png" width="48" height="48" alt="maven" /><br>
+      Maven
+    </td>
   </tr>
   <tr>
     <td align="center" width="100">
@@ -58,10 +62,6 @@ Explore the comprehensive documentation of the ShipmentXpress project by visitin
     <td align="center" width="100">
       <img src="images/github.png" width="48" height="48" alt="GitHub" /><br>
       GitHub
-    </td>
-    <td align="center" width="100">
-      <img src="images/postman.png" width="48" height="48" alt="Postman" /><br>
-      Postman
     </td>
   </tr>
 </table>
