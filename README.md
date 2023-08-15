@@ -99,9 +99,10 @@ To use ShipmentXpress:
 1. Run the application:
    java -jar target/ShipmentXpress.jar
 
-2. Access the application via your preferred web browser or API client.
+2. To see a simple usage example of interacting with the ShipmentXpress functionalities, you can refer to the ShipmentXpressTest class. This class demonstrates how to create, retrieve, update, and delete shipments. You can modify the example according to your project's design and data.
 
-3. Perform CRUD operations on shipments using the available endpoints.
+Remember that comprehensive testing is crucial for delivering a robust and dependable application.
+
 
 ## :raised_hands: Contributing
 
