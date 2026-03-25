@@ -25,7 +25,7 @@ public interface ShipmentDao {
 	 * @return A status message indicating the success or failure of the operation.
 	 * @throws ShipmentException If an error occurs while deleting the shipment.
 	 */
-	public String deteleShipment(int shipmentId) throws ShipmentException;
+	public String deleteShipment(int shipmentId) throws ShipmentException;
 
 	/**
 	 * Updates the details of a shipment.

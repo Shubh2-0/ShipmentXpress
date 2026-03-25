@@ -30,7 +30,7 @@ public class Shipment {
 	private String content; // Description of the shipment content
 	private double weight; // Weight of the shipment
 	private String senderAddress; // Address of the sender
-	private String SrecipientAddress; // Address of the recipient
+	private String recipientAddress; // Address of the recipient
 
 	@Temporal(TemporalType.TIMESTAMP)
 	private Date created_timestamp; // Timestamp of when the shipment was created
@@ -52,7 +52,7 @@ public class Shipment {
 		this.content = content;
 		this.weight = weight;
 		this.senderAddress = senderAddress;
-		SrecipientAddress = srecipientAddress;
+		recipientAddress = srecipientAddress;
 		this.created_timestamp = created_timestamp;
 	}
 }

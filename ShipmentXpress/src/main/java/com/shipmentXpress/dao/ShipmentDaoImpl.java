@@ -48,7 +48,7 @@ public class ShipmentDaoImpl implements ShipmentDao {
      * @throws ShipmentException If an error occurs while deleting the shipment.
      */
     @Override
-    public String deteleShipment(int shipmentId) throws ShipmentException {
+    public String deleteShipment(int shipmentId) throws ShipmentException {
         // Establishing a connection to the database
         EntityManager em = EM_Utils.getConnection();
 
@@ -96,7 +96,7 @@ public class ShipmentDaoImpl implements ShipmentDao {
         // Updating shipment details, starting a transaction, merging the changes, committing the transaction, and closing the connection
         sp.setContent(content);
         sp.setWeight(weight);
-		sp.setSrecipientAddress(address);
+		sp.setRecipientAddress(address);
 
         em.getTransaction().begin();
         em.merge(sp);

@@ -52,7 +52,7 @@ public class ShipmentXpressTest {
 
 		// Delete shipment by ID
 		try {
-			String deleteStatus = shipmentDao.deteleShipment(newShipment.getShipmentId());
+			String deleteStatus = shipmentDao.deleteShipment(newShipment.getShipmentId());
 			System.out.println(deleteStatus);
 		} catch (ShipmentException e) {
 			System.err.println("Error deleting shipment: " + e.getMessage());
