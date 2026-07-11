@@ -55,18 +55,7 @@ cd ShipmentXpress
 
 **Keywords:** Java Shipment-Management Logistics CRUD JDBC Package-Tracking
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 👤 Author
+*   **Shubham Bhati** (Java Backend Engineer) - [LinkedIn](https://www.linkedin.com/in/bhatishubham) | [Portfolio](https://shubhambhati.is-a.dev)
